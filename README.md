@@ -1,2 +1,2 @@
 # SLNDrivingSchool
-CSLN Driving School 
+SLN Driving School 
